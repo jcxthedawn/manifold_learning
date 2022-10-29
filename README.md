@@ -1,2 +1,2 @@
-# reproduce_isomap_from_scratch
+# Reproduce Isomap From Scratch
 Dimensionality reduction and manifold learning
